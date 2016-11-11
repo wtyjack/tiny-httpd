@@ -1,0 +1,42 @@
+a.pdf { /*The background image*/
+	/*background: url(http://eaps.purdue.edu/images/pdf.png) no-repeat right center;*/
+	background: url(../images/pdf.png)no-repeat right center;
+	padding-right: 25px;
+	padding-left: 0px;
+	line-height: 16px; /* To center the text vertically with the icon */
+}
+
+a.ppt { /*The background image*/
+	background: url(../images/ppt.png) no-repeat right center;
+	padding-right: 25px;
+	padding-left: 0px;
+	line-height: 16px; /* To center the text vertically with the icon */
+}
+ 
+a.txt { /*The background image*/
+	background: url(../images/txt.png) no-repeat right center;
+	padding-right: 25px;
+	padding-left: 0px;
+	line-height: 16px;
+}
+ 
+a.word { /*The background image*/
+	background: url(../images/word.png) no-repeat right center;
+	padding-right: 25px;
+	padding-left: 0px;
+	line-height: 16px;
+}
+ 
+a.excel {
+	background: url(../images/excel.png) no-repeat right center;
+	padding-right: 25px;
+	padding-left: 0px;
+	line-height: 16px;
+}
+
+a.zip {
+	background: url(../images/zip.png) no-repeat right center;
+	padding-right: 25px;
+	padding-left: 0px;
+	line-height: 16px;
+}
