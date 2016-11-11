@@ -1,5 +1,5 @@
 ##TINY HTTP SERVER
-A simple httpd based on POSIX socket that currently supports http1.0/1.1.
+A simple httpd based on POSIX socket that currently supports http1.0/1.1. (under construction)
 
 ###HOW TO INSTALL and COMPILE
 1. unzip the compressed file and cd into the folder
