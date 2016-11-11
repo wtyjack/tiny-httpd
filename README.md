@@ -1,11 +1,11 @@
-MY HTTP SERVER
-by Tianye Wang
+##TINY HTTP SERVER
+A simple httpd based on POSIX socket that currently supports http1.0/1.1.
 
-HOW TO INSTALL and COMPILE
+###HOW TO INSTALL and COMPILE
 1. unzip the compressed file and cd into the folder
 2. make
 
-HOW TO RUN
+###HOW TO RUN
 Server:
 [command]
 myhttpd <http version> <port number> <timeout>
